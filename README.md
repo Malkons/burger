@@ -43,5 +43,17 @@ burger
 3. In the root of the directory install npm dependencies: `npm i`
 4. In the Command Line run: `node server`
 5. The server is listing on port 8080. Navigate here in a browser [http://localhost:8080](http://localhost:8080) 
-6. Deployed on heroku: [https://protected-taiga-62198.herokuapp.com](https://protected-taiga-62198.herokuapp.com)
+
+Type in a new burger name and click the add burger button
+
+![ScreenShot](public/assets/images/burgerScreenshot.png)
+
+Click the "Eat!" button to eat the burger
+
+![ScreenShot](public/assets/images/burgerScreenShot2.png)
+
+Click the "Poop!" button to delete the burger from the list
+
+![ScreenShot](public/assets/images/burgersScreenshot3.png)
+
 
